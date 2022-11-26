@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-solution-TwkUJK38KI)
+- Live Site URL: [Snap - Intro section](https://intro-section-with-dropdown-navigation-sooty-five.vercel.app/#)
 
 ## My process
 
@@ -75,6 +75,6 @@ Further up I hope being better on positioning elements with CSS, focused on mobi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Eduardo Sant](https://github.com/edusantsouza)
+- Frontend Mentor - [@edusantsouza](https://www.frontendmentor.io/profile/edusantsouza)
 
